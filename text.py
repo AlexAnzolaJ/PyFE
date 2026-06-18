@@ -1,0 +1,1 @@
+print("I enrolled in the Python for Everyone course!")
